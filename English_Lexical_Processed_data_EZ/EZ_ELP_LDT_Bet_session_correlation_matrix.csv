@@ -1,0 +1,12 @@
+,LDT_Bet_session
+v1,0.918
+v2,0.896
+v_total = v2 - v1,0.925
+v_bias = v1 + v2,0.727
+a,0.749
+ndt,0.731
+alpha,0.737
+accuracy_percentage,0.913
+mean_log_rt,0.887
+alpha_boxcox_after_arcsin,0.745
+accuracy_boxcox_after_arcsin,0.927
